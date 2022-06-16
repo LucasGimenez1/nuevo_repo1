@@ -1,0 +1,77 @@
+.gridd-Contactanos{
+    width: 400px;
+    background: #24303c;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+}
+
+.gridd-Div{
+    width: 400px;
+    background: #24303c;
+    padding: 30px;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 4px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    display: grid;
+    
+    .btnEnviar{
+        width: 100%;
+        background: #000000;
+        border:none;
+        padding: 12px;
+        color: white;
+        margin: 16px 0;
+        font-size: 16px;
+    }
+
+    .input{
+        width: 400px;
+        background: #24303c;
+        padding: 30px;
+        margin: auto;
+        margin-top: 100px;
+        border-radius: 4px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        color: white;
+    
+    }
+     
+    .form-contacto{
+        width: 400px;
+        background: #24303c;
+        padding: 30px;
+        margin: auto;
+        margin-top: 100px;
+        border-radius: 4px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        color: white;
+    
+    
+    }
+
+    .inicio ul li{
+        list-style: none;
+        display: inline-block;
+        margin: 15px;
+    }
+    .inicio ul li a{
+        text-decoration: none;
+        color: #040505;
+        font-size: 15px;
+    }
+    .inicio:focus{
+        transition: all 5s;
+       
+    }
+
+}
+
+
+
+

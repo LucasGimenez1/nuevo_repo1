@@ -1,0 +1,221 @@
+.gridd-Contactanos {
+  width: 400px;
+  background: #24303c;
+  padding: 30px;
+  margin: auto;
+  margin-top: 100px;
+  border-radius: 4px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: white;
+}
+
+.gridd-Div {
+  width: 400px;
+  background: #24303c;
+  padding: 30px;
+  margin: auto;
+  margin-top: 50px;
+  border-radius: 4px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: white;
+  display: grid;
+}
+.gridd-Div .btnEnviar {
+  width: 100%;
+  background: #000000;
+  border: none;
+  padding: 12px;
+  color: white;
+  margin: 16px 0;
+  font-size: 16px;
+}
+.gridd-Div .input {
+  width: 400px;
+  background: #24303c;
+  padding: 30px;
+  margin: auto;
+  margin-top: 100px;
+  border-radius: 4px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: white;
+}
+.gridd-Div .form-contacto {
+  width: 400px;
+  background: #24303c;
+  padding: 30px;
+  margin: auto;
+  margin-top: 100px;
+  border-radius: 4px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: white;
+}
+.gridd-Div .inicio ul li {
+  list-style: none;
+  display: inline-block;
+  margin: 15px;
+}
+.gridd-Div .inicio ul li a {
+  text-decoration: none;
+  color: #040505;
+  font-size: 15px;
+}
+.gridd-Div .inicio:focus {
+  transition: all 5s;
+}
+
+.h5 {
+  text-align: center;
+  transition: all 2s;
+}
+
+.h5:hover {
+  height: 100px;
+  width: 100%;
+  padding: 20px;
+  background-color: cyan;
+}
+
+.contenedor {
+  height: 100vh;
+  width: 100%;
+  background-image: url(../Imagenes/R.jpg);
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+.contenedor .inicio {
+  width: 88%;
+  margin: auto;
+  padding: 15px 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.contenedor .logo {
+  width: 140px;
+  cursor: pointer;
+}
+.contenedor .logo:hover {
+  transition: all 2s;
+  height: 200px;
+  width: 200px;
+}
+.contenedor .inicio ul li {
+  list-style: none;
+  display: inline-block;
+  margin: 15px;
+}
+.contenedor .inicio ul li a {
+  text-decoration: none;
+  color: #040505;
+  font-size: 15px;
+}
+.contenedor .inicio:focus {
+  transition: all 5s;
+}
+
+.contenedor {
+  height: 100vh;
+  width: 100%;
+  background-image: url(../Imagenes/R.jpg);
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+
+.inicio {
+  width: 88%;
+  margin: auto;
+  padding: 15px 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.inicio ul li {
+  list-style: none;
+  display: inline-block;
+  margin: 15px;
+}
+
+.inicio ul li a {
+  text-decoration: none;
+  color: #040505;
+  font-size: 15px;
+}
+
+.inicio:focus {
+  transition: all 5s;
+}
+
+.contenedor {
+  height: 100vh;
+  width: 100%;
+  background-image: url(../Imagenes/R.jpg);
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+.contenedor .inicio {
+  width: 88%;
+  margin: auto;
+  padding: 15px 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.contenedor .inicio ul li {
+  list-style: none;
+  display: inline-block;
+  margin: 15px;
+}
+.contenedor .inicio ul li a {
+  text-decoration: none;
+  color: #040505;
+  font-size: 15px;
+}
+.contenedor .inicio:focus {
+  transition: all 5s;
+}
+.contenedor .div-nosotros {
+  width: 90%;
+  max-width: 1000px;
+  margin: 20px auto;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  background-color: #f1f1f1;
+}
+
+.gridd-Perfil {
+  display: grid;
+  width: 90%;
+  max-width: 1000px;
+  margin: 20px auto;
+  grid-gap: 20px;
+  grid-template-rows: repeat(3, auto);
+}
+.gridd-Perfil .informacion {
+  list-style: none;
+  text-align: center;
+  padding: 0%;
+}
+.gridd-Perfil .informacion > ul {
+  display: inline-block;
+  margin: 5px;
+}
+.gridd-Perfil .imagen-perfil {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background-image: url(../Imagenes/R.jpg);
+  text-align: center;
+  padding: 12px;
+}
+.gridd-Perfil .nombre {
+  text-align: center;
+  width: 450px;
+  padding: 15px;
+}
+.gridd-Perfil .h1-perfil {
+  background-color: #f1f1f1;
+}/*# sourceMappingURL=style.css.map */
