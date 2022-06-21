@@ -220,15 +220,7 @@
 
 
 /*NOSOTROS*/
-.div-nosotros{
-    width: 90%;
-    max-width: 1000px;
-    margin: 20px auto;
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    background-color: #f1f1f1;
 
-}
 @media screen and (max-width: 320px) {
     body{
         background-color: #000000;

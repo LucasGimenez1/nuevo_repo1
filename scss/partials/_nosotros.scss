@@ -1,0 +1,14 @@
+.div-nosotros{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+
+    &:hover{
+        filter: opacity(85%);
+    }
+
+    
+}
+.lorem1{
+    @extend .div-nosotros;
+}
+
